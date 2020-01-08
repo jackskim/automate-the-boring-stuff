@@ -1,2 +1,2 @@
 # automate-the-boring-stuff
-Repo to store my notes and code for https://automatetheboringstuff.com/
+Repo to store my answers and code for https://automatetheboringstuff.com/
